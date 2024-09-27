@@ -8,3 +8,5 @@ _site
 about_files
 /.quarto/
 .Rproj.user
+_freeze
+_extensions
