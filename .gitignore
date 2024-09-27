@@ -8,3 +8,4 @@ _site
 about_files
 /.quarto/
 .Rproj.user
+docs
