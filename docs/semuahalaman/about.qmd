@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-Langsung pencet [Praktikum](./praktikum.qmd) aja yaa!
-
-About this site
